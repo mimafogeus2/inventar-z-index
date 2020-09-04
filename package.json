@@ -1,6 +1,6 @@
 {
   "name": "inventar-z-index",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tidy up your z-indices",
   "main": "dist/main/inventarZIndex.js",
   "typings": "dist/main/inventarZIndex.d.ts",
